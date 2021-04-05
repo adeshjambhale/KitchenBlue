@@ -1,10 +1,12 @@
 # KitchenBlue 🍳
-- A Webapp for Recipe Search. 
+- A Web application for Recipe Search. 
 - It searches for recipes by ingredients and dish name contents.
+- This web-app was made during Cousera Project work - RESTful Api with HTTP and JavaScript.
+- Try it Yourself - https://adeshjambhale.github.io/KitchenBlue/
 
 # Technical Info 🔧
 - Languages used:- HTML5, CSS3, JavaScript.
-- Restful Api, Postman, 🐶RecipePuppy Api
+- HTTP, RESTful Api, Postman, 🐶RecipePuppy Api.
 
 # Status 🗸
 - This project is not under active development.
